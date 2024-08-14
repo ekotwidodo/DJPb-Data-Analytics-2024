@@ -1,0 +1,10 @@
+.DS_Store
+datasets
+.env
+.venv
+env
+venv
+.Rhistory
+.Rprofile
+renv
+renv.lock

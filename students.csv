@@ -1,21 +1,21 @@
-id,nama,usia,jurusan
-1,Ari,25,"Teknik Informatika"
-2,Budi,30,"Manajemen"
-3,Citra,35,"Akuntansi"
-4,David,40,"Ilmu Komputer"
-5,Eko,30,"Statistika"
-6,Farhan,28,"Manajemen"
-7,Guruh,24,"Statistika"
-8,Hadi,34,"Manajemen"
-9,Irene,27,"Akuntansi"
-10,Johan,42,"Manajemen"
-11,Kalam,25,"Teknik Industri"
-12,Lisa,24,"Ilmu Komputer"
-13,Mona,28,"Bisnis"
-14,Nanda,27,"Manajemen"
-15,Opan,27,"Akuntansi"
-16,Pendi,38,"Teknik Informatika"
-17,Qonita,23,"Desain Visual"
-18,Rafinah,26,"Bisnis"
-19,Sabrina,30,"Statistika"
-20,Tariq,26,"Agribisnis"
+id,nama,usia,jurusan,jenjang,asal
+1,Ari,25,"Teknik Informatika",S1,Jakarta
+2,Budi,30,"Manajemen",S3,Bandung
+3,Citra,35,"Akuntansi",S2,Bandung
+4,David,40,"Ilmu Komputer",S3,Jakarta
+5,Eko,30,"Statistika",S2,Surabaya
+6,Farhan,28,"Manajemen",S2,Bogor
+7,Guruh,24,"Statistika",S1,Semarang
+8,Hadi,34,"Manajemen",S3,Jogjakarta
+9,Irene,27,"Akuntansi",S2,Malang
+10,Johan,42,"Manajemen",S3,Tangerang
+11,Kalam,25,"Teknik Industri",S2,Medan
+12,Lisa,24,"Ilmu Komputer",S1,Palembang
+13,Mona,28,"Bisnis",S3,Jambi
+14,Nanda,27,"Manajemen",S2,Semarang
+15,Opan,27,"Akuntansi",S2,Balikpapan
+16,Pendi,38,"Teknik Informatika",S3,Surabaya
+17,Qonita,23,"Desain Visual",S1,Batam
+18,Rafinah,26,"Bisnis",S2,Palembang
+19,Sabrina,30,"Statistika",S3,Bandung
+20,Tariq,26,"Agribisnis",S2,Jakarta
